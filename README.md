@@ -8,7 +8,7 @@
 
 [pi-build script](https://github.com/km4ack/pi-build)
 
-[Vnc Viewer](https://www.realvnc.com/en/connect/download/viewer/)
+[VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 
 ## Nyttiga kommandon
 
